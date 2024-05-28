@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 34
-    namespace 'xyz.justsoft.video_thumb_getter'
+    namespace 'xyz.justsoft.video_thumbnail'
 
     defaultConfig {
         minSdkVersion 16
